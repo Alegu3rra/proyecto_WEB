@@ -4,7 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<link rel="stylesheet" href="styles.css">
-	<title>Proyecto X</title>
+	<title>Meowmail</title>
 	<?php include("conexion.php");
 	$con = conectar(); ?>
 

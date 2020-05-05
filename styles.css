@@ -129,9 +129,24 @@ label{
     max-height: 250px;
     max-width: 250px;
     margin: 30px;
-    align-self: center;
+
     border-radius: 100%;
     flex-grow: 4;
+}
+.img_animal{
+    display: flex;
+    height: 100px;
+    width: 100px;
+    max-height: 100px;
+    max-width: 100px;
+    margin: 0px;
+    align-self: center;
+    border-radius: 100%;
+}
+.img_sobrenosotros{
+    display: flex;
+    flex-direction: row;
+    align-content: space-around;
 }
 .div_consejo{
     display: block;
@@ -146,7 +161,12 @@ label{
     padding-left: 10px;
 }
 .sobre_nosotros{
-    margin: 0px 100px;
+    margin: 50px 200px;
 }
+h1{
+    font-size: 27px;
+    margin-bottom: 30px;
+}
+
 
 
