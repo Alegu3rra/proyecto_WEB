@@ -33,7 +33,7 @@
 	</table> -->
 	<header>
 		<nav>
-			<a href="index.php"><img class="prrenvios" src="logo\logo.png" alt="logo"></img></a>
+			<a href="index.php"><img class="meowmail" src="logo\logo.png" alt="logo"></img></a>
 			<ul class="">
 				<li class="li_nav"><a class="a_nav" href="Sobre_nosotros.php">Sobre nosotros</a></li>
 				<li class="li_nav"><a class="a_nav" href="#">Contáctanos</a></li>
@@ -52,16 +52,18 @@
 					<label for="">Asunto</label>
 					<input type="text" class="form_text" name="asunto">
 					<label for="">Mensaje</label>
-					<input type="radio" id="other" name="gender" value="other">
-					<label for="other">Other</label>
 					<textarea class="form_mensaje" name="mensaje" id="form_mensaje" rows="5"></textarea>
+					<div class="tyc">
+						<input  type="checkbox" name="term_cond" value="tyc">
+						<label class="tyc_label" for="other">Aceptas términos y condiciones del servicio.</label>
+					</div>
 					<button class="form_boton" type="submit">Enviar</button>
 				</form>
 		</div>
 		<div class="form_section b-0">
 			<img class="img_change" src="media/ash-edmonds-Co_hWX_XtEk-unsplash.jpg" alt="">
 			<div class="div_consejo">
-				<h3 class="num_consejo">Consejo #3:</h3>
+				<h3 class="font_patt">Consejo #3:</h3>
 				<p class="consejo">El rango de visión de un gato no incluye la zona por debajo de su nariz.</p>
 			</div>
 		</div>
