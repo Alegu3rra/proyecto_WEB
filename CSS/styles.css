@@ -1,17 +1,17 @@
 @font-face {
 	font-family: "Pattaya";
-	src: url(fonts/Pattaya/Pattaya-Regular.ttf);
+	src: url(../fonts/Pattaya/Pattaya-Regular.ttf);
 }
 
 @font-face {
 	font-family: "Open_Sans";
-	src: url(fonts/Open_Sans/OpenSans-Regular.ttf);
+	src: url(../fonts/Open_Sans/OpenSans-Regular.ttf);
 }
 
 @font-face {
 	font-family: "Open_Sans";
 	font-weight: bold;
-	src: url(fonts/Open_Sans/OpenSans-Bold.ttf);
+	src: url(../fonts/Open_Sans/OpenSans-Bold.ttf);
 }
 
 /*  */

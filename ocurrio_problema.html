@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<link rel="stylesheet" href="styles.css">
+	<link rel="stylesheet" href="CSS/styles.css">
 	<title>Meowmail</title>
 
 </head>
@@ -15,13 +15,30 @@
 			<ul class="">
 				<li class="li_nav"><a class="a_nav" href="Sobre_nosotros.html">Sobre nosotros</a></li>
 				<li class="li_nav"><a class="a_nav" href="colaboradores.html">Colaboradores</a></li>
-				<li class="li_nav"><a class="a_nav" href="contactanos.html">Contáctanos</a></li>
+				<li class="li_nav"><a class="a_nav" href="juego_gato.html">Juega gato</a></li>
 				
 			</ul>
 		</nav>
 		<a class="a_nav" href="ocurrio_problema.html">¿Ocurrió un problema?</a>
 	</header>
 	<section>
+		<div class="contactanos">
+			<h1 class="font_patt h1_titulo">Contáctanos</h1>
+			<p>Para lo que necesites, estamos disponibles y contestaremos lo más pronto posible.</p>		
+			<br><br>
+			
+		</div>
+		<div class="form_section f_shrink">
+				<form action="POST" class="form">
+					<label for="">Nombre</label>
+					<input type="text" class="form_text" name="nombre">
+					<label for="">Correo</label>
+					<input type="correo" class="form_correo" name="correo">
+					<label for="">Mensaje</label>
+					<textarea class="form_mensaje" name="mensaje" id="form_mensaje" rows="5"></textarea>
+					<button class="form_boton" type="submit">Enviar</button>
+				</form>
+		</div>
 		
 	</section>
     
