@@ -69,6 +69,8 @@ section{
     display: flex;
     flex-wrap: nowrap;
     padding: 10px;
+    justify-content: center;
+    align-items: center;
 }
 .form_section{
     display: flex;
@@ -112,8 +114,9 @@ label{
 }
 
 .form_boton{
+    display: block;
     font-family: "Pattaya", sans-serif;
-    margin: 0px 200px;
+    margin: 0% 30%;
     padding: 10px;
     background-color: teal;
     color: white;
@@ -133,7 +136,10 @@ label{
     border-radius: 100%;
     flex-grow: 4;
 }
-.img_animal{
+.img_circulo{
+    display: flex;
+
+    align-self: center;
     height: 100px;
     width: 100px;
     max-height: 100px;
@@ -141,10 +147,16 @@ label{
     margin: 0px;
     border-radius: 100%;
 }
-.img_sobrenosotros{
+.img_col{
     display: flex;
-    align-content: space-around;
-
+    align-self: center;
+    margin: 50px !important;
+    width: 100px;
+    max-width: 100px;
+    margin: 0px;
+}
+.disp_flex{
+    display: flex;
 }
 .div_consejo{
     display: block;
@@ -152,6 +164,7 @@ label{
     margin: 0px 50px; 
 }
 .font_patt{
+    align-self: flex-start;
     font-family: "Pattaya", sans-serif;
 }
 .consejo{
@@ -161,13 +174,18 @@ label{
 .sobre_nosotros{
     display: flex;
     flex-direction: column;
-    align-self: center;
+    align-items: center;
     margin: 50px 200px;
 }
-.h1_nosotros{
+.h1_titulo{
     font-size: 27px;
     margin-bottom: 30px;
 }
-
+.contactanos{
+    margin: 80px;
+}
+.f_shrink{
+    flex-shrink: 2;
+}
 
 
