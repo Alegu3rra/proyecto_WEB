@@ -11,7 +11,7 @@
 }
 h1{
   margin: 20px 0;
-  color: #ffad5a;
+  color: #00695C;
 }
 canvas{
   width: 300px;
@@ -20,22 +20,23 @@ canvas{
 #Turno{
   font-weight: bold;
   margin: 20px 0;
-  color: #ffad5a;
+  color: #00695C;
 
 }
 button{
   width: 100px;
   height: 50px;
-  color: white;
-  font-weight: bold;
-  background: #ffad5a;
-  border: 2px solid #ffad5a;
-  box-shadow: 0px 0px 3px #ffad5a;
+  background: teal;
+  border: 2px solid teal;
+  box-shadow: 0px 0px 3px teal;
   cursor: pointer;
   transition-duration: .2s;
+  font-family: "Pattaya", sans-serif;
+  color: white;
+  border-radius: 30px;
 }
 button:hover{
   background: white;
-  color: #ffad5a;
+  color: #00695C;
   transition-duration: .2s;
 }

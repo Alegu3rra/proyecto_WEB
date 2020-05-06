@@ -123,7 +123,9 @@ label{
     border-radius: 30px;
 }
 .form_boton:hover{
-    background-color: #004D40;
+    background-color: white;
+    color: #004D40;
+    transition-duration: .2s;
 }
 .img_change{
     display: flex;
