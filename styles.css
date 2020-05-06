@@ -129,7 +129,7 @@ label{
     max-height: 250px;
     max-width: 250px;
     margin: 30px;
-
+    align-self: center;
     border-radius: 100%;
     flex-grow: 4;
 }
@@ -161,6 +161,7 @@ label{
 .sobre_nosotros{
     display: flex;
     flex-direction: column;
+    align-self: center;
     margin: 50px 200px;
 }
 .h1_nosotros{
