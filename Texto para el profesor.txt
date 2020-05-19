@@ -1,0 +1,25 @@
+Buenas tardes Profesor, 
+
+esperando que se encuentra bien presentaremos el proyecto.
+
+La página es capaz de enviar correos mediante PHPMailer 
+y contendrá una pestaña con un juego del gato hecho en canvas.
+
+Como primer avanza tenemos un poco de ccs y
+aún falta el responsivo.
+
+el index ya puede mandar correos.
+
+el juego del gato aún no determina ganador pero ya esta 
+en su mayoría
+
+enlace en el que se encuentra el proyecto
+https://github.com/Alegu3rra/proyecto_WEB
+
+diseño inicial del proyecto
+https://www.figma.com/file/R6syAYcl5ASULGnsIxjMEy/Untitled
+
+nombres de los integrantes:
+
+Guerra Castañeda Teresa Alejandra 
+Senties Peña Emilio Efraín 
