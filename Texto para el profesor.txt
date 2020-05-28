@@ -9,8 +9,7 @@ Como segundo avance, la responsividad funciona.
 
 el index ya puede mandar correos.
 
-el juego del gato aún no determina ganador pero ya esta 
-en su mayoría.
+el juego del gato ya determina ganador.
 
 enlace en el que se encuentra el proyecto
 https://github.com/Alegu3rra/proyecto_WEB
