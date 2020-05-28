@@ -209,12 +209,6 @@ body {
     .f_shrink {
         flex-shrink: 2;
     }
-    .problem {
-        display: flex;
-        align-self: center;
-        font-size: 11px;
-        color: #008080;
-    }
     #menu-hamburguer {
         display: none;
     }
@@ -400,12 +394,6 @@ body {
     }
     .f_shrink {
         flex-shrink: 2;
-    }
-    .problem {
-        display: flex;
-        align-self: center;
-        font-size: 11px;
-        color: #008080;
     }
     #menu-hamburguer {
         display: none;
@@ -598,12 +586,6 @@ body {
     }
     .f_shrink {
         flex-shrink: 2;
-    }
-    .problem {
-        display: flex;
-        align-self: center;
-        font-size: 11px;
-        color: #008080;
     }
     #menu-hamburguer {
         display: flex;
